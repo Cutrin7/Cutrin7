@@ -1,5 +1,4 @@
  <h1>Olá! Eu sou o Vitor Cutrin 👋</h1>
-
 <hr>
 
  👨‍💻 Desenvolvedor Júnior 
