@@ -1,5 +1,15 @@
 ## Olá! Eu sou o Vitor Cutrin 👋
 
+<hr>
+
+## 👨‍💻 Desenvolvedor Júnior 
+
+Olá, me chamo Vitor, e sou apaixonado por tecnologia, estudo diariamente
+ para conseguir minha primeira oportunidade, almejo no futuro me tornar um
+ desenvolvedor Full Stack.
+
+ <hr>
+
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cutrin/)
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://cutrin7.github.io/Portifolio/)
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cutrinvitor@gmail.com)
