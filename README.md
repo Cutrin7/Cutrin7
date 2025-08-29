@@ -1,8 +1,8 @@
-## Olá! Eu sou o Vitor Cutrin 👋
+ Olá! Eu sou o Vitor Cutrin 👋
 
 <hr>
 
-## 👨‍💻 Desenvolvedor Júnior 
+ 👨‍💻 Desenvolvedor Júnior 
 
 Olá, me chamo Vitor, e sou apaixonado por tecnologia, estudo diariamente
  para conseguir minha primeira oportunidade, almejo no futuro me tornar um
